@@ -5,8 +5,8 @@
 - 💞️ I’m looking for internships
 - 📫 How to reach me gannamanenideepak@gmail.com
 - 🖇️ my leetcode profile: https://leetcode.com/u/gannamanenideepakdesai/    
-- 🖇️ my leetcode profile: www.linkedin.com/in/deepak-desai-gannamaneni    
-- 🖇️ my leetcode profile: https://www.codechef.com/users/deepak_desai_g
+- 🖇️ my linkedin profile: www.linkedin.com/in/deepak-desai-gannamaneni    
+- 🖇️ my codechef profile: https://www.codechef.com/users/deepak_desai_g
 - 😄 Pronouns: he/him
 
 <!---
